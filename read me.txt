@@ -1,0 +1,1 @@
+jo irctc_db waali file hai n usko php my admin mai jaa kr import krlo
